@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CovidCare",
+    "slug": "CovidCare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CovidCare"
+}
