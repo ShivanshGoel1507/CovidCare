@@ -47,7 +47,7 @@ this.check();
                
             <View style={styles.covidText}>
                 <Text style={styles.text} onPress={()=>{
-                    this.props.navigation.navigate('TestScreen')
+                    this.props.navigation.navigate('ProfileScreen')
                 }}>Take a Covid Test</Text>
                 <Image source={logo} style={{height:100,width:100,margin:20}}></Image>
             </View>
